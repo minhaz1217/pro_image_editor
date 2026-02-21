@@ -207,7 +207,6 @@ class _TextEditorInputState extends State<TextEditorInput> {
               color: widget.textColor,
               fontSize: widget.textFontSize,
               letterSpacing: 0,
-              decoration: TextDecoration.none,
               shadows: [],
             ),
 
